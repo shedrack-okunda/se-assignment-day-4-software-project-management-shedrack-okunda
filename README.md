@@ -39,20 +39,15 @@
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 
- Importance of Effective Cost Control
-Budget Adherence: Effective cost control helps ensure that the project remains within the allocated budget, preventing financial strain on the organization.
+ **Importance of Effective Cost Control**  
+**Budget Adherence:** Effective cost control helps ensure that the project remains within the allocated budget, preventing financial strain on the organization.  
+**Resource Optimization:** By monitoring costs, project managers can allocate resources more efficiently, ensuring that funds are used where they are most needed.  
+**Stakeholder Confidence:** Maintaining control over costs builds trust with stakeholders, including clients, investors, and team members, as it demonstrates the project manager's ability to manage resources effectively.      
+**Risk Mitigation:** Cost control allows for early identification of potential financial issues, enabling proactive measures to mitigate risks before they escalate.      
+**Profitability:** For organizations that operate on a profit model, effective cost control directly impacts the bottom line, ensuring that projects contribute positively to overall financial health.  
+**Project Scope Management:** By keeping costs in check, project managers can better manage scope changes and avoid scope creep, which can lead to increased costs and delays.  
 
-Resource Optimization: By monitoring costs, project managers can allocate resources more efficiently, ensuring that funds are used where they are most needed.
-
-Stakeholder Confidence: Maintaining control over costs builds trust with stakeholders, including clients, investors, and team members, as it demonstrates the project manager's ability to manage resources effectively.
-
-Risk Mitigation: Cost control allows for early identification of potential financial issues, enabling proactive measures to mitigate risks before they escalate.
-
-Profitability: For organizations that operate on a profit model, effective cost control directly impacts the bottom line, ensuring that projects contribute positively to overall financial health.
-
-Project Scope Management: By keeping costs in check, project managers can better manage scope changes and avoid scope creep, which can lead to increased costs and delays.
-
-Strategies to Prevent Budget Overruns
+**Strategies to Prevent Budget Overruns**
 Detailed Project Planning:
 
 Define Clear Objectives: Establish clear project goals and deliverables to avoid ambiguity that can lead to additional costs.
